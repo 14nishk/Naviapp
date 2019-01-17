@@ -1,0 +1,18 @@
+                 Printer 
+----------------------------------------------
+
+Tray 1 ---------------------->  Universal 
+
+Tray 2 ----------------------> Organisational
+
+Tray 3 ----------------------> Report 
+
+Tray 4 ----------------------> Coloured Paper
+
+Tray 5 ----------------------> Presentation
+
+Tray 6 ----------------------> Office card
+
+Tray 7 -----------------------> Expression 
+
+Tray 8 ----------------------> Hybrid, Ecological, Advanced
